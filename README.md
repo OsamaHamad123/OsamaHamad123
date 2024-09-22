@@ -1,16 +1,30 @@
-## Hi there 👋
+# مرحبًا، أنا أسامة حمد! 👋
 
-<!--
-**OsamaHamad123/OsamaHamad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## نبذة عني
+مبرمج تطبيقات أندرويد باستخدام [Flutter](https://flutter.dev). أحب تطوير التطبيقات الإبداعية والمتميزة التي تسهّل حياة المستخدمين.
 
-Here are some ideas to get you started:
+### مهاراتي:
+- Flutter & Dart
+- Firebase
+- تصميم واجهات المستخدم (UI/UX)
+- إدارة المشاريع باستخدام Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### مشاريعي:
+- **تطبيق محادثة مشابه لـ WhatsApp**: تطبيق مراسلة فورية تم تطويره باستخدام Flutter و Firebase.
+- **تطبيق ToDo**: تطبيق لتنظيم المهام يساعد المستخدمين على إدارة وقتهم بفعالية.
+
+### تابعوني على:
+- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://linkedin.com/in/your-linkedin-username)
+
+## صور من مشاريعي 📸
+
+![تطبيق محادثة](https://your-image-link.com)
+*صورة لتطبيق المحادثة*
+
+![تطبيق ToDo](https://your-image-link.com)
+*صورة لتطبيق تنظيم المهام*
+
+## اتصل بي:
+- البريد الإلكتروني: your-email@example.com
+
