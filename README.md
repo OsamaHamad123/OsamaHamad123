@@ -1,53 +1,83 @@
-# Hey, I'm Osama Hamad! 👋
+# 👋 Hey, I'm Osama Hamad!
 
-## About Me
-I am an Android app developer specializing in [Flutter](https://flutter.dev). Passionate about building creative and user-friendly mobile applications that solve real-world problems. Always excited to learn new technologies and enhance my skillset.
-
-### 🔧 Skills:
-- **Languages & Frameworks:** Flutter, Dart, Kotlin
-- **Backend:** Firebase, RESTful APIs, PHP Laravel
-- **Tools:** Git, VSCode, Android Studio
-- **UI/UX Design:** Wireframing, Prototyping, Material Design
+![Profile Views](https://komarev.com/ghpvc/?username=OsamaHamad123&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Chat App (WhatsApp Clone) 💬
-A real-time messaging app built with Flutter and Firebase, featuring voice and text messaging, media sharing, and push notifications.
-
-*Intuitive chat interface with dark mode support.*
-
-### 2. ToDo App ✔️
-A task management app that helps users organize their tasks efficiently. It includes features like task prioritization, deadline reminders, and cloud sync using Firebase.
-
-*Clean and minimal design for easy task management.*
-
-### 3. Weather Forecast App 🌦️
-An app that provides real-time weather updates with a dynamic interface. Built using Flutter and OpenWeather API.
-
-*Interactive weather forecasts with animations.*
-
-### 4. E-Commerce App 🛒
-An e-commerce application with features like product search, filtering, shopping cart, and a secure checkout process using payment integration. Powered by Flutter and Firebase.
-
-*Easily browse and purchase products from the app.*
+## 🧑‍💻 About Me
+I'm an Android & Flutter developer passionate about building creative, scalable, and user-friendly mobile applications.  
+I love solving real-world problems through code and am always looking to improve my skills and learn new technologies.
 
 ---
 
-## 📫 Connect With Me:
-- [GitHub]([https://github.com/your-github-username](https://github.com/OsamaHamad123))
-- Email: osamahamad665@gmail.com
+## 🚀 Skills & Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📱 Featured Projects
+
+### 🛒 E-Commerce App
+A fully functional e-commerce application with features like product search, filtering, shopping cart, and secure checkout.  
+Built using Flutter and Firebase.
+
+[🔗 View Project](https://github.com/OsamaHamad123/ecommerce-app)
+
+---
+
+### 💬 Chat App (WhatsApp Clone)
+A real-time messaging application supporting text, voice messaging, media sharing, and notifications.  
+Built with Flutter and Firebase.
+
+[🔗 View Project](https://github.com/OsamaHamad123/chat-app)
+
+---
+
+### ✔️ ToDo App
+A simple and elegant task management application supporting task prioritization and cloud sync.
+
+[🔗 View Project](https://github.com/OsamaHamad123/todo-app)
+
+---
+
+### 🌦️ Weather Forecast App
+An animated Flutter weather app that shows real-time weather data via the OpenWeather API.
+
+[🔗 View Project](https://github.com/OsamaHamad123/weather-app)
 
 ---
 
 ## 📸 Project Screenshots
 
-| Project Name | Screenshot |
-|--------------|------------|
-| Chat App     | ![Chat App](https://your-image-link.com) |
-| ToDo App     | ![ToDo App](https://your-image-link.com) |
-| Weather App  | ![Weather App](https://your-image-link.com) |
-| E-Commerce App | ![E-Commerce App](https://your-image-link.com) |
+| Project | Preview |
+|:--------|:--------|
+| Chat App | ![Chat App Screenshot](https://your-image-link.com) |
+| ToDo App | ![ToDo App Screenshot](https://your-image-link.com) |
+| Weather App | ![Weather App Screenshot](https://your-image-link.com) |
+| E-Commerce App | ![E-Commerce App Screenshot](https://your-image-link.com) |
 
-Feel free to check out the source code for these projects and explore more on my [GitHub profile]([https://github.com/your-github-username](https://github.com/OsamaHamad123)). Let’s build something awesome together! 🚀
+---
+
+## 📈 GitHub Stats
+
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=OsamaHamad123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaHamad123&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsamaHamad123)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamahamad665@gmail.com)
+
+---
+
+> "Building solutions that impact the world, one line of code at a time." 🌍✨
