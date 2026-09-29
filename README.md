@@ -56,12 +56,13 @@ A zero-knowledge password manager with a Chrome/Edge extension. It is pre-releas
 `Flutter` `Drift` `cryptography` `Supabase` `TypeScript` `Manifest V3` `Playwright`
 
 ### 📋 [Benaa — Offline-First Field App](https://github.com/OsamaHamad123/benaa_offline_app) · Flutter + PHP · 2025 – 2026
-A field app for a relief organisation. Staff register families, log home visits, and manage sponsorships, partner associations and reports, fully offline.
-- Sync uses an outbox queue, delta pulls, a choice of conflict strategies and 512 KB chunked attachment uploads.
-- Encrypted attachments (AES-GCM), offline sign-in and a statistics dashboard with PDF/Excel reports.
-- I built both sides, the Flutter app and the PHP/MySQL sync API. About 550 tests; CI deploys to Firebase App Distribution.
+A field app for a relief organisation. Staff register families, log home visits, and manage sponsorships, partner associations and reports without a connection.
+- All field work is captured offline in a local Drift/SQLite store with versioned migrations. Changed records are tracked per row and pushed to the server in paged two-way sync.
+- I built both sides. The PHP/MySQL API has hashed bearer tokens, login lockout, and a transactional delta-sync endpoint with tombstones for deletes.
+- Offline sign-in against a PBKDF2 hash in secure storage, Arabic name search with spelling normalisation over a large reference database, and PDF/Excel reports.
+- 480+ tests. CI builds Android and iOS and ships to Firebase App Distribution.
 
-`Flutter` `Riverpod` `Drift` `AES-GCM` `PHP` `MySQL` `GitHub Actions`
+`Flutter` `Riverpod` `Drift` `GoRouter` `PHP` `MySQL` `GitHub Actions`
 
 ### 🏫 [Education Center](https://github.com/OsamaHamad123/education-center) · Next.js · 2026
 A management system for a multi-branch tutoring centre (Arabic, RTL, mobile-first): classes, timetables, attendance, fees, payroll, and teacher and parent portals.
