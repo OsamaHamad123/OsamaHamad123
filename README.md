@@ -64,6 +64,8 @@ A field app for a relief organisation. Staff register families, log home visits,
 
 `Flutter` `Riverpod` `Drift` `GoRouter` `PHP` `MySQL` `GitHub Actions`
 
+<img src="https://raw.githubusercontent.com/OsamaHamad123/benaa_offline_app/develop/docs/screenshots/overview.png" alt="Benaa: dashboard, insights, beneficiaries list and activity log (fictional sample data)" width="100%">
+
 ### 🏫 [Education Center](https://github.com/OsamaHamad123/education-center) · Next.js · 2026
 A management system for a multi-branch tutoring centre (Arabic, RTL, mobile-first): classes, timetables, attendance, fees, payroll, and teacher and parent portals.
 - A modular monolith of 16 modules, with boundaries enforced by ESLint. Every mutation passes through one pipeline: auth → permission → Zod → tenant → audit.
@@ -71,6 +73,8 @@ A management system for a multi-branch tutoring centre (Arabic, RTL, mobile-firs
 - Unit tests, integration tests on real Postgres and Playwright e2e tests. Deployed with Docker and Caddy, with encrypted backups.
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Playwright`
+
+<img src="https://raw.githubusercontent.com/OsamaHamad123/education-center/main/docs/screenshots/dashboard.png" alt="Education Center: super-admin dashboard with attendance and fees per branch (demo data)" width="100%">
 
 ### 🖼️ [Product Image Automation Pipeline](https://github.com/OsamaHamad123/product-image-automation-pipeline) · Python microservices · 2026
 Automates catalogue images for a grocery store. The pipeline reads SKUs from Google Sheets, searches for images, verifies them with Gemini Vision, removes backgrounds, normalises to 800×800, removes duplicates, uploads to Cloudinary and writes the results back to the sheet. A Laravel dashboard lets staff curate the picks.
