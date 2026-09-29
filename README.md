@@ -67,7 +67,7 @@ A field app for a relief organisation. Staff register families, log home visits,
 ### 🏫 [Education Center](https://github.com/OsamaHamad123/education-center) · Next.js · 2026
 A management system for a multi-branch tutoring centre (Arabic, RTL, mobile-first): classes, timetables, attendance, fees, payroll, and teacher and parent portals.
 - A modular monolith of 16 modules, with boundaries enforced by ESLint. Every mutation passes through one pipeline: auth → permission → Zod → tenant → audit.
-- Each branch's data is isolated twice: in the app layer and by 77 Postgres Row Level Security policies. Database constraints make overlapping timetable slots impossible.
+- Each branch's data is isolated twice: in the app layer and by 76 Postgres Row Level Security policies. Database constraints make overlapping timetable slots impossible.
 - Unit tests, integration tests on real Postgres and Playwright e2e tests. Deployed with Docker and Caddy, with encrypted backups.
 
 `Next.js 16` `React 19` `TypeScript` `PostgreSQL` `Drizzle` `Better Auth` `Playwright`
